@@ -22,7 +22,7 @@
 ******
 ### Cultural works
 - I am taking photos especially macro and nature. [Check my flickr profile](https://www.flickr.com/photos/sercant)
-![Macro crab spider](https://www.flickr.com/photos/sercant/50171481892/)
+<a data-flickr-embed="true" data-footer="true" href="https://www.flickr.com/photos/sercant/50171481892/" title="Crab spider"><img src="https://live.staticflickr.com/65535/50171481892_5f46179670_k.jpg" width="50%" height="50%" alt="Crab spider"/></a>
 ******
 ### Contact
 sercantirnavali[at]live[dot]com
