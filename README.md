@@ -10,7 +10,6 @@
 - My first project is about [archive management system](https://github.com/tirnavali/Archivist) which is written with ruby on rails.
 - I’m currently working on archive repository software on .netcore.
 - I’m currently learning java deeply.
-
 ******
 ### My study life
 - I graduated from department of Information Management at Hacettepe Universtiy.
@@ -20,6 +19,9 @@
 ### Work life
 - I am working as librarian at Turkish Parliament.
 - I am developing archive and library related applications for my institution.
+******
+### Cultural works
+- I am taking photos especially macro and nature. [Check my flickr profile](https://www.flickr.com/photos/sercant)
 ******
 ### Contact
 sercantirnavali[at]live[dot]com
