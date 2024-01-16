@@ -1,16 +1,11 @@
-### Hi there 👋
+### I am Sercan 👋 
+- I Started programing with python.
+- I Learned objects with java.
+- I Learned web apps with node, express, mongo.
+- I learned git and web development with ruby on rails.
+- I fall in love open source with ruby.
 
-<!--
-**tirnavali/tirnavali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+******
+- My first project is about [archive management system](https://github.com/tirnavali/Archivist) which is written with ruby on rails.
+- I’m currently working on archive repository software on .netcore.
+- I’m currently learning java deeply.
